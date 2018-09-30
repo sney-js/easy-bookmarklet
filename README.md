@@ -3,6 +3,7 @@
 Making bookmarklets made easy. 
 
 You will need to edit:
+
 * A HTML file ([bookmarklet.html](bookmarklet/bookmarklet.html))
 * A CSS file ([style.css](bookmarklet/style.css))
 * A Javascript file ([bookmarklet_view.js](bookmarklet/bookmarklet_view.js))
